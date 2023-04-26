@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roman</h1>
 
 
-**<b>Data Scientist</b> with higher specialized education, more than 3 years of experience in IT and Telecom. I have experience in implementing projects using <b>Machine Learning</b>, <b>Computer Vision</b> and <b>NLP</b>. I have solid knowledge in the field of probability theory, statistics, linear algebra, OOP, I have the skills to work in <b>Python</b>. I enjoy learning new technologies. I mainly use <b>Python</b> language, but my plans are to learn new languages as well, I also work with <b>Pandas</b>, <b>Numpy</b>, <b>PyTorch</b>, <b>Streamlit</b>. In my spare time, I take part in kaggle competitions and go in for sports.**
+<b>Data Scientist</b> with higher specialized education, more than 3 years of experience in IT and Telecom. I have experience in implementing projects using <b>Machine Learning</b>, <b>Computer Vision</b> and <b>NLP</b>. I have solid knowledge in the field of probability theory, statistics, linear algebra, OOP, I have the skills to work in <b>Python</b>. I enjoy learning new technologies. I mainly use <b>Python</b> language, but my plans are to learn new languages as well, I also work with <b>Pandas</b>, <b>Numpy</b>, <b>PyTorch</b>, <b>Streamlit</b>. In my spare time, I take part in kaggle competitions and go in for sports.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
